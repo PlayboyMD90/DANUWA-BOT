@@ -1,13 +1,13 @@
 <h1 align="center" style="font-weight:bold;">
-⚡ Ｄ Ａ Ｎ Ｕ Ｗ Ａ － Ｍ Ｄ ⚡
+PLAYBOY-MD
 </h1>
 
 <p align="center">
-  <img src="https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/Danuwa%20-%20MD.png?raw=true" alt="DANUWA-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/PlayboyMD90/-/blob/main/imagejus/20260112_180822.jpg?raw=true" alt="PLAYBOY-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+DANUWA-MD+WhatsApp+Bot;I'm+Danuka+Disanayaka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hello+How+are+you%3F;Welcome+to+PLAYBOY-MD+WhatsApp+Bot;I'm+Tharindu+Avishka" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,28 +18,28 @@
 
 <p align="center">
   <a href="https://github.com/your-username/DANUWA-MD">
-    <img src="https://img.shields.io/github/repo-size/DANUWA-MD/DANUWA-MD?color=green&label=Repo%20Size&style=flat-square" />
+    <img src="https://github.com/PlayboyMD90/-/blob/main/imagejus/20260112_180822.jpg?raw=true" />
   </a>
   <a href="https://github.com/your-username/DANUWA-MD">
-    <img src="https://img.shields.io/github/license/DANUWA-MD/DANUWA-MD?color=blue&style=flat-square" />
+    <img src="https://github.com/PlayboyMD90/-/blob/main/imagejus/20260112_180822.jpg?raw=true" />
   </a>
   <a href="https://github.com/your-username/DANUWA-MD/fork">
-    <img src="https://img.shields.io/github/forks/DANUWA-MD/DANUWA-MD?style=flat-square" />
+    <img src="https://github.com/PlayboyMD90/-/blob/main/imagejus/20260112_180822.jpg?raw=true" />
   </a>
   <a href="https://github.com/your-username/DANUWA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/DANUWA-MD/DANUWA-MD?style=flat-square" />
+    <img src="https://github.com/PlayboyMD90/-/blob/main/imagejus/20260112_180822.jpg?raw=true" />
   </a>
 </p>
 
 ---
 
-## 📍 What is DANUWA-MD?
+## 📍 What is PLAYBOY-MD?
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Multi-device+WhatsApp+bot;Modular+plugin+architecture;Media+and+group+management+tools" alt="Typing SVG" />
 </p>
 
-**DANUWA-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
+**PLAYBOY-MD** is a multi-device WhatsApp bot written in Node.js using the [Baileys](https://github.com/adiwajshing/Baileys) library. It supports QR/Pairing code login, a plugin-based command system, and various media tools such as sticker conversion, song and video downloads, and group management commands.
 
 ---
 
@@ -112,7 +112,7 @@
 
 ---
 
-## 🧑‍💻 How to Deploy DANUWA-MD on GitHub Codespaces
+## 🧑‍💻 How to Deploy PLAYBOY-MD on GitHub Codespaces
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -135,7 +135,7 @@
    ```
 
 
-## ⚡ How to Deploy DANUWA-MD on Replit
+## ⚡ How to Deploy PLAYBOY-MD on Replit
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Step-by-step+deployment+guide;Install+dependencies+and+start+bot" alt="Typing SVG" />
@@ -153,7 +153,7 @@ Make sure your repository includes all required files (`index.js`, `plugins`, `a
 
 ---
 
-## 🚀 How to Deploy DANUWA-MD on GitHub (via Actions)
+## 🚀 How to Deploy PLAYBOY-MD on GitHub (via Actions)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Deploy+via+workflow+YAML;Push+and+run+automatically" alt="Typing SVG" />
