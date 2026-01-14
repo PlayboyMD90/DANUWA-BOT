@@ -9,12 +9,12 @@
     },
     "ALIVE_IMG": {
       "required": false,
-      "default": "https://github.com/DANUWA-MD/DANUWA-BOT/blob/main/images/Danuwa%20-%20MD.png?raw=true",
+      "default": "https://github.com/PlayboyMD90/-/blob/main/imagejus/20260112_180822.jpg?raw=true",
       "description": "Alive command image URL"
     },
     "ALIVE_MSG": {
       "required": false,
-      "default": "*Hello👋 DANUWA-MD Is Alive Now😍*",
+      "default": "*Hello👋 PLAYBOY-MD Is Alive Now😍*",
       "description": "Custom alive message"
     },
     "MOVIE_API_KEY": {
