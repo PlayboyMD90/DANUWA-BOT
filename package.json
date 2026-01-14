@@ -1,12 +1,12 @@
 {
-  "name": "DANUWA-MD",
+  "name": "PLAYBOY-MD",
   "version": "1.0.0",
   "description": "A Powerfull Whatsapp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
-    "stop": "pm2 stop DANUWA-MD",
-    "restart": "pm2 restart DANUWA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name PLAYBOY-MD",
+    "stop": "pm2 stop PLAYBOY-MD",
+    "restart": "pm2 restart PLAYBOY-MD"
   },
     "engines": {
     "node": ">=20.0.0"
