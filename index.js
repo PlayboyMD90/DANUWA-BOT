@@ -21,7 +21,7 @@ CURRENTLY RUNNING ON STABLE VERSION!
 *
    * Licensed under the GNU GPL-3.0 License.
 * 
-   * ┌┤Created By Danuka Disanayaka
+   * ┌┤Created By Tharindu avishka 
    * © 2026 PLAYBOY-MD ✭ ⛥.
    * plugin date : 14/01/2026
 * 
